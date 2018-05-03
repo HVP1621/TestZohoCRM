@@ -1,9 +1,13 @@
 package com.zoho.dev;
 
+import android.Manifest;
 import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
+import android.text.util.Linkify;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -34,6 +38,10 @@ public class ContactsActivity extends ZCRMBaseActivity {
     SwipeRefreshLayout refreshLayout;
     TextView emptylist;
     TextView loading;
+
+    TextView name;
+    TextView emailView;
+    TextView phone;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -142,7 +150,7 @@ public class ContactsActivity extends ZCRMBaseActivity {
             ZCRMRecord record = (ZCRMRecord) storeList.get(position);
             try
             {
-                TextView name = (TextView) view.findViewById(R.id.textView4);
+                name = (TextView) view.findViewById(R.id.textView4);
                 //name.setTextColor(0xA10F6F);
                 String fullName = "";
                 if(record.getFieldValue("First_Name") != null)
@@ -152,7 +160,7 @@ public class ContactsActivity extends ZCRMBaseActivity {
                 fullName += record.getFieldValue("Last_Name");
                 name.setText(fullName);
 
-                String email, mobile;
+                final String email, mobile;
                 if(record.getFieldValue("Email") == null)
                 {
                     email = "No Email";
@@ -169,9 +177,18 @@ public class ContactsActivity extends ZCRMBaseActivity {
                 {
                     mobile = record.getFieldValue("Mobile").toString();
                 }
-                TextView phone = view.findViewById(R.id.textView5);
+                phone = view.findViewById(R.id.textView5);
                 phone.setText(mobile);
-                TextView emailView = view.findViewById(R.id.textView6);
+                //phone.setAutoLinkMask(Linkify.PHONE_NUMBERS);
+                phone.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+                        Intent dialIntent = new Intent(Intent.ACTION_DIAL, Uri.parse(mobile)).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        startActivity(dialIntent);
+                    }
+                });
+
+                emailView = view.findViewById(R.id.textView6);
                 emailView.setText(email);
             } catch (ZCRMException e) {
                 e.printStackTrace();
