@@ -68,9 +68,8 @@ public class MainActivity extends ZCRMBaseActivity {
         });
     }
 
-    public void getContacts(View view) throws IllegalAccessException, InstantiationException {
-        //Intent openContactsMenu = new Intent(context.getApplicationContext(), ContactsActivity.class);
-        //context.startActivity(openContactsMenu);
-        startActivity(new Intent(getApplicationContext(), ContactsActivity.class));
+    public void getContacts(View view) {
+        Intent openContactsMenu = new Intent(this,ContactsActivity.class);
+        startActivity(openContactsMenu);
     }
 }

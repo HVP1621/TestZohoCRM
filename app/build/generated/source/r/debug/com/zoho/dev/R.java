@@ -3587,7 +3587,8 @@ public final class R {
     public static final int redir_url=0x7f0e0054;
     public static final int search_menu_title=0x7f0e0055;
     public static final int status_bar_notification_info_overflow=0x7f0e0056;
-    public static final int url_scheme=0x7f0e0057;
+    public static final int text_view_contactname=0x7f0e0057;
+    public static final int url_scheme=0x7f0e0058;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0f0000;

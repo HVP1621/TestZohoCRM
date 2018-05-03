@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Apr 18 16:44:44 IST 2018
+#Thu May 03 15:40:08 IST 2018
 1.base=/home/harshvardhan1621/Desktop/ZohoApp/Dev/app/build/intermediates/assets/debug
 2.path=sdk_configuration.properties
 0.baseType=DIRECTORY

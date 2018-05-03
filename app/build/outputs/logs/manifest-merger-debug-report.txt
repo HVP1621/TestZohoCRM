@@ -4,27 +4,27 @@ ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManife
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/e3a8a3f5af8109f37b33462b2b9c6014/AndroidManifest.xml:16:1-20:12
-MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7e42af4b7d91419feb38f7e08dd18560/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8b4a9b8e96655742d09d66faaf8bb326/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/58830366d3593c487949a47994c0aebb/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fa6b42a3ec883d56a63485825a96d5ff/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/6fd770847a32ef5f9f6f19900ff49bc0/AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b2db56ec0794099f0921f948635a840/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/52418c43e39256a5a6f99ddc1aa9cd5e/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13ad4cb3260739644c48fbdf409d682/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bdbde6551d8322fcc517df9f68d3422a/AndroidManifest.xml:17:1-31:12
-MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:2:1-45:12
-MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:2:1-22:12
-MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.support:multidex:1.0.2] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/b40342b4818765be40af2c44491332ef/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/156d4fd1e0bed70afdc7ac9bad3c3026/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79444e428c418f798033dacc3653d67f/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01ae988300bc2625c97c13e365fbb716/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8bccca516c689943a803404ddb8e573d/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8507ec4cd90c620397a7617a1777bbfa/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5de0e1607436da2cc88882872e556f2b/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/05ba2a7f621a20216e848c0b4c917a0e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/06ff8dc9c167c3c31e2901fc83436717/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/06747a00d1e741c143da7b617d9ffddb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/1b32d5d488008adc20d2255739109d5f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/45d2ad07beecd568e2065b6906a46657/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/81e4b776373f74d0e41195da7577d3d8/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5cb5273c62cc959e354e36aee3675071/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97500f2593d6e1adbd07fd1b22c79cef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/60ed458aeecc68cc15060b0a030214b0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/261e3fb9e1cce7341cabda556347bd07/AndroidManifest.xml:17:1-31:12
+MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:2:1-45:12
+MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:2:1-22:12
+MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:multidex:1.0.2] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/8c0f3b1b28e5b98b78e1fdda8f7989a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2ad48407c3fecf84c69febc06c0e7ed0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d48eb4238f51cb65b116a8d6f0280f01/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34a8e595c6e8a71418a2dc08828b8532/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d88ac0456bfe93e061ad6af4425d097/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/781dd8ac4d3179fcd4d6d32969ae876a/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:17:1-30:12
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
@@ -46,56 +46,56 @@ INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidMan
 		INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:7:5-34:19
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/e3a8a3f5af8109f37b33462b2b9c6014/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/e3a8a3f5af8109f37b33462b2b9c6014/AndroidManifest.xml:19:5-20
-MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7e42af4b7d91419feb38f7e08dd18560/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7e42af4b7d91419feb38f7e08dd18560/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8b4a9b8e96655742d09d66faaf8bb326/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8b4a9b8e96655742d09d66faaf8bb326/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/58830366d3593c487949a47994c0aebb/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/58830366d3593c487949a47994c0aebb/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fa6b42a3ec883d56a63485825a96d5ff/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fa6b42a3ec883d56a63485825a96d5ff/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/6fd770847a32ef5f9f6f19900ff49bc0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/6fd770847a32ef5f9f6f19900ff49bc0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b2db56ec0794099f0921f948635a840/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b2db56ec0794099f0921f948635a840/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/52418c43e39256a5a6f99ddc1aa9cd5e/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/52418c43e39256a5a6f99ddc1aa9cd5e/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13ad4cb3260739644c48fbdf409d682/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13ad4cb3260739644c48fbdf409d682/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bdbde6551d8322fcc517df9f68d3422a/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bdbde6551d8322fcc517df9f68d3422a/AndroidManifest.xml:25:5-29:19
-MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:12:5-43:19
-MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:12:5-43:19
-MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:13:5-20:19
-MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:13:5-20:19
-MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:13:5-23:19
-MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:13:5-23:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/156d4fd1e0bed70afdc7ac9bad3c3026/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/156d4fd1e0bed70afdc7ac9bad3c3026/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79444e428c418f798033dacc3653d67f/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79444e428c418f798033dacc3653d67f/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01ae988300bc2625c97c13e365fbb716/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01ae988300bc2625c97c13e365fbb716/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8bccca516c689943a803404ddb8e573d/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8bccca516c689943a803404ddb8e573d/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8507ec4cd90c620397a7617a1777bbfa/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8507ec4cd90c620397a7617a1777bbfa/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5de0e1607436da2cc88882872e556f2b/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5de0e1607436da2cc88882872e556f2b/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/05ba2a7f621a20216e848c0b4c917a0e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/05ba2a7f621a20216e848c0b4c917a0e/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/06ff8dc9c167c3c31e2901fc83436717/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/06ff8dc9c167c3c31e2901fc83436717/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/06747a00d1e741c143da7b617d9ffddb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/06747a00d1e741c143da7b617d9ffddb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/1b32d5d488008adc20d2255739109d5f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/1b32d5d488008adc20d2255739109d5f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/45d2ad07beecd568e2065b6906a46657/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/45d2ad07beecd568e2065b6906a46657/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/81e4b776373f74d0e41195da7577d3d8/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/81e4b776373f74d0e41195da7577d3d8/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5cb5273c62cc959e354e36aee3675071/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5cb5273c62cc959e354e36aee3675071/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97500f2593d6e1adbd07fd1b22c79cef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97500f2593d6e1adbd07fd1b22c79cef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/60ed458aeecc68cc15060b0a030214b0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/60ed458aeecc68cc15060b0a030214b0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/261e3fb9e1cce7341cabda556347bd07/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/261e3fb9e1cce7341cabda556347bd07/AndroidManifest.xml:25:5-29:19
+MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:12:5-43:19
+MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:12:5-43:19
+MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:13:5-20:19
+MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:13:5-20:19
+MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:13:5-23:19
+MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:13:5-23:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2ad48407c3fecf84c69febc06c0e7ed0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2ad48407c3fecf84c69febc06c0e7ed0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d48eb4238f51cb65b116a8d6f0280f01/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d48eb4238f51cb65b116a8d6f0280f01/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34a8e595c6e8a71418a2dc08828b8532/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34a8e595c6e8a71418a2dc08828b8532/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d88ac0456bfe93e061ad6af4425d097/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d88ac0456bfe93e061ad6af4425d097/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/781dd8ac4d3179fcd4d6d32969ae876a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/781dd8ac4d3179fcd4d6d32969ae876a/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:16:9-35
+		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:16:9-35
 	android:label
 		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:10:9-41
 	android:icon
 		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
 		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:8:9-35
-		REJECTED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:14:9-36
-		REJECTED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:14:9-36
+		REJECTED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:14:9-36
+		REJECTED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:14:9-36
 	android:theme
 		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:11:9-40
 	tools:replace
@@ -148,52 +148,52 @@ uses-sdk
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/e3a8a3f5af8109f37b33462b2b9c6014/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/e3a8a3f5af8109f37b33462b2b9c6014/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7e42af4b7d91419feb38f7e08dd18560/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7e42af4b7d91419feb38f7e08dd18560/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8b4a9b8e96655742d09d66faaf8bb326/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8b4a9b8e96655742d09d66faaf8bb326/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/58830366d3593c487949a47994c0aebb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/58830366d3593c487949a47994c0aebb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fa6b42a3ec883d56a63485825a96d5ff/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fa6b42a3ec883d56a63485825a96d5ff/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/6fd770847a32ef5f9f6f19900ff49bc0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/6fd770847a32ef5f9f6f19900ff49bc0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b2db56ec0794099f0921f948635a840/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b2db56ec0794099f0921f948635a840/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/52418c43e39256a5a6f99ddc1aa9cd5e/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/52418c43e39256a5a6f99ddc1aa9cd5e/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13ad4cb3260739644c48fbdf409d682/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13ad4cb3260739644c48fbdf409d682/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bdbde6551d8322fcc517df9f68d3422a/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bdbde6551d8322fcc517df9f68d3422a/AndroidManifest.xml:21:5-23:61
-MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:8:5-10:41
-MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:8:5-10:41
-MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:8:5-11:62
-MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:8:5-11:62
-MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:8:5-11:62
-MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:8:5-11:62
-MERGED from [com.android.support:multidex:1.0.2] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/b40342b4818765be40af2c44491332ef/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/b40342b4818765be40af2c44491332ef/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/156d4fd1e0bed70afdc7ac9bad3c3026/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/156d4fd1e0bed70afdc7ac9bad3c3026/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79444e428c418f798033dacc3653d67f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79444e428c418f798033dacc3653d67f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01ae988300bc2625c97c13e365fbb716/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01ae988300bc2625c97c13e365fbb716/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8bccca516c689943a803404ddb8e573d/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8bccca516c689943a803404ddb8e573d/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8507ec4cd90c620397a7617a1777bbfa/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8507ec4cd90c620397a7617a1777bbfa/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5de0e1607436da2cc88882872e556f2b/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5de0e1607436da2cc88882872e556f2b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/05ba2a7f621a20216e848c0b4c917a0e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/05ba2a7f621a20216e848c0b4c917a0e/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/06ff8dc9c167c3c31e2901fc83436717/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/06ff8dc9c167c3c31e2901fc83436717/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/06747a00d1e741c143da7b617d9ffddb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/06747a00d1e741c143da7b617d9ffddb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/1b32d5d488008adc20d2255739109d5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/1b32d5d488008adc20d2255739109d5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/45d2ad07beecd568e2065b6906a46657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/45d2ad07beecd568e2065b6906a46657/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/81e4b776373f74d0e41195da7577d3d8/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/81e4b776373f74d0e41195da7577d3d8/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5cb5273c62cc959e354e36aee3675071/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5cb5273c62cc959e354e36aee3675071/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97500f2593d6e1adbd07fd1b22c79cef/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97500f2593d6e1adbd07fd1b22c79cef/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/60ed458aeecc68cc15060b0a030214b0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/60ed458aeecc68cc15060b0a030214b0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/261e3fb9e1cce7341cabda556347bd07/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/261e3fb9e1cce7341cabda556347bd07/AndroidManifest.xml:21:5-23:61
+MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:8:5-10:41
+MERGED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:8:5-10:41
+MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:8:5-11:62
+MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:8:5-11:62
+MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:8:5-11:62
+MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:8:5-11:62
+MERGED from [com.android.support:multidex:1.0.2] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/8c0f3b1b28e5b98b78e1fdda8f7989a7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/8c0f3b1b28e5b98b78e1fdda8f7989a7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2ad48407c3fecf84c69febc06c0e7ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2ad48407c3fecf84c69febc06c0e7ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d48eb4238f51cb65b116a8d6f0280f01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d48eb4238f51cb65b116a8d6f0280f01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34a8e595c6e8a71418a2dc08828b8532/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34a8e595c6e8a71418a2dc08828b8532/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d88ac0456bfe93e061ad6af4425d097/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d88ac0456bfe93e061ad6af4425d097/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/781dd8ac4d3179fcd4d6d32969ae876a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/781dd8ac4d3179fcd4d6d32969ae876a/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:20:5-22:41
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
 		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
@@ -203,102 +203,102 @@ INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidMan
 		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
 		INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7e42af4b7d91419feb38f7e08dd18560/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7e42af4b7d91419feb38f7e08dd18560/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8b4a9b8e96655742d09d66faaf8bb326/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/8b4a9b8e96655742d09d66faaf8bb326/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/58830366d3593c487949a47994c0aebb/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/58830366d3593c487949a47994c0aebb/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fa6b42a3ec883d56a63485825a96d5ff/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/fa6b42a3ec883d56a63485825a96d5ff/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b2db56ec0794099f0921f948635a840/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8b2db56ec0794099f0921f948635a840/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/52418c43e39256a5a6f99ddc1aa9cd5e/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/52418c43e39256a5a6f99ddc1aa9cd5e/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13ad4cb3260739644c48fbdf409d682/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e13ad4cb3260739644c48fbdf409d682/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bdbde6551d8322fcc517df9f68d3422a/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bdbde6551d8322fcc517df9f68d3422a/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/156d4fd1e0bed70afdc7ac9bad3c3026/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/156d4fd1e0bed70afdc7ac9bad3c3026/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79444e428c418f798033dacc3653d67f/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79444e428c418f798033dacc3653d67f/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01ae988300bc2625c97c13e365fbb716/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/01ae988300bc2625c97c13e365fbb716/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8bccca516c689943a803404ddb8e573d/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8bccca516c689943a803404ddb8e573d/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8507ec4cd90c620397a7617a1777bbfa/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8507ec4cd90c620397a7617a1777bbfa/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/06ff8dc9c167c3c31e2901fc83436717/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/06ff8dc9c167c3c31e2901fc83436717/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/06747a00d1e741c143da7b617d9ffddb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/06747a00d1e741c143da7b617d9ffddb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/1b32d5d488008adc20d2255739109d5f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/1b32d5d488008adc20d2255739109d5f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/45d2ad07beecd568e2065b6906a46657/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/45d2ad07beecd568e2065b6906a46657/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5cb5273c62cc959e354e36aee3675071/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/5cb5273c62cc959e354e36aee3675071/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97500f2593d6e1adbd07fd1b22c79cef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/97500f2593d6e1adbd07fd1b22c79cef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/60ed458aeecc68cc15060b0a030214b0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/60ed458aeecc68cc15060b0a030214b0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/261e3fb9e1cce7341cabda556347bd07/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/261e3fb9e1cce7341cabda556347bd07/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2ad48407c3fecf84c69febc06c0e7ed0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2ad48407c3fecf84c69febc06c0e7ed0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d48eb4238f51cb65b116a8d6f0280f01/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d48eb4238f51cb65b116a8d6f0280f01/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34a8e595c6e8a71418a2dc08828b8532/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34a8e595c6e8a71418a2dc08828b8532/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d88ac0456bfe93e061ad6af4425d097/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d88ac0456bfe93e061ad6af4425d097/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/781dd8ac4d3179fcd4d6d32969ae876a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/781dd8ac4d3179fcd4d6d32969ae876a/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/db3768271ca7d4ac86fec16173178828/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:27:13-51
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/6fd770847a32ef5f9f6f19900ff49bc0/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/81e4b776373f74d0e41195da7577d3d8/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/6fd770847a32ef5f9f6f19900ff49bc0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/81e4b776373f74d0e41195da7577d3d8/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/6fd770847a32ef5f9f6f19900ff49bc0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-base:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-base-7.5.0.aar/81e4b776373f74d0e41195da7577d3d8/AndroidManifest.xml:22:13-58
 activity#com.zoho.crm.sdk.android.zcrmandroid.activity.ZCRMLauncherActivity
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:13:9-24:20
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:13:9-24:20
 	android:theme
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:15:13-56
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:14:13-94
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:14:13-94
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:18:13-23:29
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:18:13-23:29
 action#android.intent.action.MAIN
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:19:17-69
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:19:25-66
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:22:17-77
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:22:27-74
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:22:27-74
 activity#com.zoho.crm.sdk.android.zcrmandroid.activity.ZCRMLoginActivity
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:25:9-28:50
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:25:9-28:50
 	android:parentActivityName
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:27:13-108
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:27:13-108
 	android:theme
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:28:13-47
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:28:13-47
 	android:name
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:26:13-91
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:26:13-91
 activity#com.zoho.accounts.clientframework.WebViewActivity
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:31:9-86
-MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:17:9-19:72
-MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:17:9-19:72
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:31:9-86
+MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:17:9-19:72
+MERGED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:17:9-19:72
 	android:theme
-		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:19:13-69
+		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:19:13-69
 	android:name
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:31:19-83
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:31:19-83
 activity#com.zoho.accounts.externalframework.WebViewActivity
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:32:9-88
-MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:16:9-88
-MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:16:9-88
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:32:9-88
+MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:16:9-88
+MERGED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:16:9-88
 	android:name
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:32:19-85
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:32:19-85
 activity#com.zoho.crm.sdk.android.zcrmandroid.activity.ZCRMRedirActivity
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:33:9-42:20
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:33:9-42:20
 	android:name
-		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:33:19-97
+		ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:33:19-97
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/url_scheme
-ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/AndroidManifest.xml:34:13-41:29
+ADDED from [:ZCRMAndroid_V1_3:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/b6c58b61ce5c59d3fdcc044e998d8c2c/AndroidManifest.xml:34:13-41:29
 activity#com.zoho.accounts.externalframework.ChromeTabActivity
-ADDED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:17:9-19:72
+ADDED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:17:9-19:72
 	android:theme
-		ADDED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:19:13-69
+		ADDED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:19:13-69
 	android:name
-		ADDED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/6050ca9dcd318674aa08d39c64840bb8/AndroidManifest.xml:18:13-81
+		ADDED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:18:13-81
 activity#com.zoho.accounts.clientframework.ChromeTabActivity
-ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:20:9-22:72
+ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:20:9-22:72
 	android:theme
-		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:22:13-69
+		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:22:13-69
 	android:name
-		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/ceb231fa8f74fbdd3419bccce3f137cc/AndroidManifest.xml:21:13-79
+		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:21:13-79
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5de0e1607436da2cc88882872e556f2b/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5de0e1607436da2cc88882872e556f2b/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5de0e1607436da2cc88882872e556f2b/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:26:13-58
