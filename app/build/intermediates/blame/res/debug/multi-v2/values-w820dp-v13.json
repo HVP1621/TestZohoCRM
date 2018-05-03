@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/harshvardhan1621/Desktop/ZohoApp/Dev/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/res/values-w820dp/drawables.xml",
+                    "from": {
+                        "startLines": "1,2,4,6,5,3,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "75,163,347,521,435,253,605",
+                        "endColumns": "87,89,87,83,85,93,83",
+                        "endOffsets": "158,248,430,600,516,342,684"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "113,201,291,379,463,549,643",
+                        "endColumns": "87,89,87,83,85,93,83",
+                        "endOffsets": "196,286,374,458,544,638,722"
+                    }
+                },
+                {
+                    "source": "/home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Apr 18 16:44:44 IST 2018
+1.base=/home/harshvardhan1621/Desktop/ZohoApp/Dev/app/build/intermediates/assets/debug
+2.path=sdk_configuration.properties
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/home/harshvardhan1621/Desktop/ZohoApp/Dev/app/build/intermediates/assets/debug
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=ASSET
+0.path=classes.dex
+3.base=/home/harshvardhan1621/Desktop/ZohoApp/Dev/app/build/intermediates/transforms/dexMerger/debug/0
+0.set=DEX
+0.base=/home/harshvardhan1621/Desktop/ZohoApp/Dev/app/build/intermediates/transforms/dexMerger/debug/1
+2.baseType=DIRECTORY
+1.path=app_configuration.properties

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ZCRMAndroid_V1_3:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/jars/libs/ZCRM_Java_Library.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ZCRMAndroid_V1_3.aar/16b0cecedc1d341c589f4ac4156b8b74/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

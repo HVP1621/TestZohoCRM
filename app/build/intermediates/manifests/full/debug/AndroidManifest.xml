@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zoho.dev"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.zoho.dev.MainActivity"
+            android:label="Main Activity"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="//"
+                    android:scheme="@string/url_scheme" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.zoho.dev.ContactsActivity"
+            android:parentActivityName="com.zoho.dev.MainActivity" >
+        </activity>
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".MainActivity" />
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.zoho.crm.sdk.android.zcrmandroid.activity.ZCRMLauncherActivity"
+            android:theme="@style/AppTheme.Transparent" >
+
+            <!-- android:theme="@android:style/Theme.Translucent.NoTitleBar" -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.zoho.crm.sdk.android.zcrmandroid.activity.ZCRMLoginActivity"
+            android:parentActivityName="com.zoho.crm.sdk.android.zcrmandroid.activity.ZCRMLauncherActivity"
+            android:theme="@style/SplashTheme" /> <!-- android:theme="@android:style/Theme.Translucent.NoTitleBar" -->
+        <activity
+            android:name="com.zoho.accounts.clientframework.WebViewActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name="com.zoho.accounts.externalframework.WebViewActivity" />
+        <activity android:name="com.zoho.crm.sdk.android.zcrmandroid.activity.ZCRMRedirActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/url_scheme" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.zoho.accounts.externalframework.ChromeTabActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zoho.accounts.clientframework.ChromeTabActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

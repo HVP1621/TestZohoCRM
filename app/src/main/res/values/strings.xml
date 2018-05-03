@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zoho Test APP</string>
+    <string name="custom_title">Dev</string>
+    <string name="c_id">1000.GYLECA14BULY60164HW8M0DP9Q6DTK</string>
+    <string name="c_secret">08acec0364ee71e2f647ae71d2ade9f1162c7ea7b9</string>
+    <string name="redir_url">myappcallback://://</string>
+    <string name="url_scheme">myappcallback</string>
+
+    <string name="accounts_url">https://accounts.zoho.com</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
