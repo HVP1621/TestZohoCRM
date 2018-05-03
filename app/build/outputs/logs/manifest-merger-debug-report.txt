@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-38:12
 MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/05ba2a7f621a20216e848c0b4c917a0e/AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/06ff8dc9c167c3c31e2901fc83436717/AndroidManifest.xml:17:1-31:12
@@ -25,9 +25,9 @@ MERGED from [com.android.support:support-core-ui:26.1.0] /home/harshvardhan1621/
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d88ac0456bfe93e061ad6af4425d097/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/781dd8ac4d3179fcd4d6d32969ae876a/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c83b029777718e81895b0957dde3ed0/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:4:5-27
 		INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
@@ -44,8 +44,12 @@ INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidMan
 		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:5:5-28
 		INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
 		INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:8:22-66
 application
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:7:5-34:19
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:9:5-36:19
 MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/05ba2a7f621a20216e848c0b4c917a0e/AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-gcm:7.5.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.5.0.aar/05ba2a7f621a20216e848c0b4c917a0e/AndroidManifest.xml:19:5-20
 MERGED from [com.android.support:design:26.1.0] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bb6499955eb1b1ff2868575a66af87aa/AndroidManifest.xml:25:5-29:19
@@ -89,61 +93,61 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/harshvardhan1621/.gradl
 	android:supportsRtl
 		ADDED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:10:9-35
 		REJECTED from [:ZIAMAndroid_V2_5:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZIAMAndroid_V2_5.aar/2ea502e86aeb6d6686d3f4eccb8ef6a2/AndroidManifest.xml:14:9-36
 		REJECTED from [:ZVIAMAndroid_V2_12:] /home/harshvardhan1621/.gradle/caches/transforms-1/files-1.1/ZVIAMAndroid_V2_12.aar/c11cc474d0cf6cdac84d529e559ab036/AndroidManifest.xml:14:9-36
 	android:theme
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:13:9-40
 	tools:replace
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:12:9-44
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:14:9-44
 activity#com.zoho.dev.MainActivity
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:14:9-24:20
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:16:9-26:20
 	android:label
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:16:13-42
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:18:13-42
 	android:theme
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:17:13-44
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:19:13-44
 	android:name
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host://+data:scheme:@string/url_scheme
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:18:13-23:29
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:20:13-25:29
 action#android.intent.action.VIEW
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:19:17-68
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:21:17-68
 	android:name
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.DEFAULT
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:20:17-75
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:22:17-75
 	android:name
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:20:27-73
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:22:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:21:27-75
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:23:27-75
 data
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:22:17-78
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:24:17-78
 	android:host
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:22:59-76
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:24:59-76
 	android:scheme
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:22:23-58
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:24:23-58
 activity#com.zoho.dev.ContactsActivity
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:26:9-28:20
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:28:9-30:20
 	android:parentActivityName
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:27:13-55
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:29:13-55
 	android:name
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:26:19-51
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:28:19-51
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:30:9-32:45
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:32:9-34:45
 	android:value
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:32:13-42
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:34:13-42
 	android:name
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:31:13-59
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:33:13-59
 uses-permission#android.permission.INTERNET
-ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:35:5-66
+ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:37:5-66
 	android:name
-		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:35:22-64
+		ADDED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml:37:22-64
 uses-sdk
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/harshvardhan1621/Desktop/ZohoApp/Dev/app/src/main/AndroidManifest.xml

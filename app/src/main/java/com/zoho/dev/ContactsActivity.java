@@ -183,7 +183,7 @@ public class ContactsActivity extends ZCRMBaseActivity {
                 phone.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        Intent dialIntent = new Intent(Intent.ACTION_DIAL, Uri.parse(mobile)).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                        Intent dialIntent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:"+"8097442119")).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         startActivity(dialIntent);
                     }
                 });
