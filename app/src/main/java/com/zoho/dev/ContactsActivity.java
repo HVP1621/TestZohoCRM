@@ -179,7 +179,6 @@ public class ContactsActivity extends ZCRMBaseActivity {
                 }
                 phone = view.findViewById(R.id.textView5);
                 phone.setText(mobile);
-                //phone.setAutoLinkMask(Linkify.PHONE_NUMBERS);
                 phone.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
