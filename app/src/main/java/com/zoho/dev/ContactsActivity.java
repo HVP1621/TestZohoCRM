@@ -102,7 +102,39 @@ public class ContactsActivity extends ZCRMBaseActivity {
             @Override
             public void onItemClick(final AdapterView adapterView, View view, final int position, long idy)
             {
-                //load record's detail page here
+                ZCRMRecord record = (ZCRMRecord) com.zoho.sample_app.ListViewAdapter.storeList.get(position);
+                com.zoho.sample_app.ListViewAdapter.idClicked = record.getEntityId();
+                try
+                {
+                    if(record.getModuleAPIName().equals("Calls"))
+                    {
+                        com.zoho.sample_app.ListViewAdapter.nameClicked = String.valueOf(record.getFieldValue("Subject"));
+                    }
+                    else if(record.getModuleAPIName().equals("Tasks"))
+                    {
+                        com.zoho.sample_app.ListViewAdapter.nameClicked = String.valueOf(record.getFieldValue("Subject"));
+                    }
+                    else if(record.getModuleAPIName().equals("Events"))
+                    {
+                        com.zoho.sample_app.ListViewAdapter.nameClicked = String.valueOf(record.getFieldValue("Event_Title"));
+                    }
+                    else if(record.getModuleAPIName().equals("Contacts"))
+                    {
+                        String fullName = "";
+                        if(record.getFieldValue("First_Name") != null)
+                        {
+                            fullName += record.getFieldValue("First_Name") + " ";
+                        }
+                        fullName += record.getFieldValue("Last_Name");
+                        com.zoho.sample_app.ListViewAdapter.nameClicked = fullName;
+                    }
+                    Intent intent = new Intent(getApplicationContext(), ContactsInfo.class);
+                    startActivity(intent);
+                }
+                catch (ZCRMException e)
+                {
+                    e.printStackTrace();
+                }
             }
         });
 
@@ -183,7 +215,7 @@ public class ContactsActivity extends ZCRMBaseActivity {
                     @Override
                     public void onClick(View view) {
                         Intent dialIntent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:"+mobile)).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                        startActivity(dialIntent);
+                        startActivity(dialIntent); //Open the dialer and make a call
                     }
                 });
 
